@@ -2,9 +2,9 @@
 
 ## Work in Progress
 
-* [Jeff Garland:Library in a Week (I) (in Paepcke Auditorium)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/2012_library_in_a_week_day.pdf)
-* [Leor Zolman: A Whirlwind Overview of C++11](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/cpp_overview_handout.pdf)
-* [Boris Schaeling: 50 Boost libraries in 180 minutes (I)]()
+* [Jeff Garland:Library in a Week (I) (in Paepcke Auditorium)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/2012_library_in_a_week_day1.pdf?raw=true)
+* [Leor Zolman: A Whirlwind Overview of C++11](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/cpp_overview_handout.pdf?raw=true)
+* [Boris Schaeling: 50 Boost libraries in 180 minutes (I)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/.pdf?raw=true)
 * [Scott Schurr: More Useful Computations in the Same Duration: Optimizing Embedded Hard Real-Time Code in C++]()
 * [Alisdair Meredith: Fresh Paint]()
 * [Boris Schaeling: 50 Boost libraries in 180 minutes (II)]()
