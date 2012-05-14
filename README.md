@@ -2,7 +2,7 @@
 
 ## Work in Progress
 
-* [Jeff Garland:Library in a Week (I) (in Paepcke Auditorium)]()
+* [Jeff Garland:Library in a Week (I) (in Paepcke Auditorium)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/2012_library_in_a_week_day.pdf)
 * [Leor Zolman: A Whirlwind Overview of C++11](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/cpp_overview_handout.pdf)
 * [Boris Schaeling: 50 Boost libraries in 180 minutes (I)]()
 * [Scott Schurr: More Useful Computations in the Same Duration: Optimizing Embedded Hard Real-Time Code in C++]()
