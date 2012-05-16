@@ -5,29 +5,28 @@
 * [Jeff Garland:Library in a Week (I)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/2012_library_in_a_week_day1.pdf?raw=true)
 * [Leor Zolman: A Whirlwind Overview of C++11](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/cpp_overview_handout.pdf?raw=true)
 * [Boris Schaeling: 50 Boost libraries in 180 minutes](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/50_boost_libraries.pdf?raw=true)
-* Scott Schurr: More Useful Computations in the Same Duration: Optimizing Embedded Hard Real-Time Code in C++
+* [Scott Schurr: More Useful Computations in the Same Duration: Optimizing Embedded Hard Real-Time Code in C++](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/schurr_more_useful_computations.pdf?raw=true)
 * Alisdair Meredith: Fresh Paint
-* Karsten Ahnert, Mario Mulansky: odeint - Solving ordinary differential equations in C++
+* [Karsten Ahnert, Mario Mulansky: odeint - Solving ordinary differential equations in C++](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/odeint.pdf?raw=true)
 * [Michael Caisse: Lambda Functions](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/lambda.pdf?raw=true) | [Original from ciere website](http://ciere.com/cppnow12)
 * Michael Wong: OpenMP for better high-level parallelism, not just for High Performance Computing
 * Michael Wong: Future C++1x proposals
-* John Wiegley: C++11: High-Level Threading
+* [John Wiegley: C++11: High-Level Threading](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/concurrency.pdf?raw=true)
 * [Alan Talbot: Ustring - A Modern Alternative to std::string](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/ustring.pdf?raw=true)
-  * Bartosz Milewski, Eric Niebler : Compile-Time/Run-Time Functional Programming in C++
+* [Bartosz Milewski, Eric Niebler : Compile-Time/Run-Time Functional Programming in C++](https://github.com/boostcon/cppnow_presentations_2012/blob/master/mon/compile_time_runtime.pdf?raw=true)
 
 ## Tuesday Presentations
 
 * Jeff Garland: Library in a Week
-* Howard Hinnant: Keynote: Moving Forward with C++11
-* Tony Van Eerd: Don't Try This at Work - Low Level Threading with C++11	 
+* [Howard Hinnant: Keynote: Moving Forward with C++11](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward.key?raw=true)
+* Tony Van Eerd: Don't Try This at Work - Low Level Threading with C++11
 * Michael Caisse: Ladon - A Distributed State-Machine Framework	 
-* Zoltan Porkolab, Abel Sinkovics: Metaparse - Complie-time parsing with template metaprogramming
-* Jon Kalb: Exception-Safe Coding in C++ (I)	 
+* [Zoltan Porkolab, Abel Sinkovics: Metaparse - Complie-time parsing with template metaprogramming](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/metaparse.pdf?raw=true)
+* Jon Kalb: Exception-Safe Coding in C++
 * Beman Dawes: Moving Boost to Git	 
 * Alisdair Meredith: Lessons Learned Developing the C++11 Standard Library
-* Jon Kalb: Exception-Safe Coding in C++ (II)	 
 * Sumit Kumar: What's new in Visual Studio IDE for C++ Developers	 
-* Josef Weinbub: Utilizing Modern Programming Techniques and the Boost Libraries for Scientific Software Development
+* [Josef Weinbub: Utilizing Modern Programming Techniques and the Boost Libraries for Scientific Software Development](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_weinbub.pdf?raw=true)
 
 ## Wednesday Presentations
 
