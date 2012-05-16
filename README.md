@@ -33,8 +33,8 @@
 * Jeff Garland: Library in a Week (III) 
 * David Vandevoorde: Keynote: Modules in C++
 * [Howard Hinnant: What's new with C++11 containers?](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/cppnow_containers.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/cppnow_containers.key?raw=true)
-* Jean-Marc Gratien: Implementing a Domain Specific Embedded Language for lowest-order variational methods with Boost Proto
-* Marshall Clow: Generic Programming in C++: A Real-World Example
+* [Jean-Marc Gratien: Implementing a Domain Specific Embedded Language for lowest-order variational methods with Boost Proto](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/JMG-cppNow2012.pdf?raw=true)
+* [Marshall Clow: Generic Programming in C++: A Real-World Example](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/marshall_generic_programming.pdf?raw=true)
 * Michael Caisse: Introduction to Modern C++ Techniques | [Original from ciere website](http://ciere.com/cppnow12)
 * Andrew Lumsdaine, Larisse Voufo: ConceptClang: An Implementation Model for C++ Concepts	 
 * Howard Hinnant: C++11 Smart Pointers and Algorithms
@@ -46,17 +46,17 @@
 
 * Jeff Garland: Library in a Week (IV)
 * Sean Parent: Keynote: Now What? A vignette in 3 parts
-* Beman Dawes, Jeff Garland, Howard Hinnant, Alisdair Meredith: Other C++11 Gems	 
-* Jeroen Habraken: Type to string conversions, and vice-versa	 
+* Beman Dawes, Jeff Garland, Howard Hinnant, Alisdair Meredith: Other C++11 Gems
+* Jeroen Habraken: Type to string conversions, and vice-versa
 * Gordon Woodhull: Compile-time 'reparsing'
 * Karsten Ahnert, Mario Mulansk: Metaprogramming Applied to Numerical Problems
 * Travis Gockel: How we switched to C++11 at SolidFire and how it worked out
-* Bryce Adelstein-Lelbach, Matthew Anderson, Hartmut Kaiser: HPX: A C++11 parallel runtime system	 
+* Bryce Adelstein-Lelbach, Matthew Anderson, Hartmut Kaiser: HPX: A C++11 parallel runtime system
 * Patrick Mihelich: Linear programming made easy with Boost Proto
-* Dave Abrahams: Metaprogramming in C++11	 
+* Dave Abrahams: Metaprogramming in C++11
 * Nat Goodspeed: Using Boost.Coroutine to untangle a state machine
-* Chandler Carruth: Refactoring C++ with Clang	
-* Beman Dawes: Boosting Libraries for TR2	 
+* Chandler Carruth: Refactoring C++ with Clang
+* Beman Dawes: Boosting Libraries for TR2
 * Tony Van Eerd: How I Code and Why
 * Stephan T. Lavavej: Regex in C++11 and Boost
 * Dave Abrahams, Jon Kalb: Preparation of C++ Now! 2013
@@ -64,5 +64,5 @@
 ## Friday Presentations
 
 * Jeff Garland: Library in a Week (V)
-* Sean Parent: Value Semantics and Concepts-based Polymorphism	 
+* Sean Parent: Value Semantics and Concepts-based Polymorphism
 * Ale Contenti: C++ Component Extensions for WinRT
