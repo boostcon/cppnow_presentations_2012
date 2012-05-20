@@ -25,7 +25,7 @@
    - [Part I (pages 1-131)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward_part1.pdf?raw=true) 
    - [Part II (pages 132-262)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward_part2.pdf?raw=true) 
    - [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward.key?raw=true)
-   - Full pdf version available if you clone
+   - Full pdf version (pages 1-262) available if you clone or get the zip file.  tue/cppnow_moving_forward_part.pdf.
 * Tony Van Eerd: Don't Try This at Work - Low Level Threading with C++11 | [PPS Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/low_level_threading_with_cpp11.pps?raw=true)
 * [Michael Caisse: Ladon - A Distributed State-Machine Framework](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/ladon.pdf?raw=true) | [Original from the ciere website](http://ciere.com/cppnow12)
 * [Zoltan Porkolab, Abel Sinkovics: Metaparse - Complie-time parsing with template metaprogramming](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/metaparse.pdf?raw=true)
@@ -42,7 +42,7 @@
    - [Fabio Fracassi: Moving adobe::forest to boost](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day_3_adobe_forest.pdf?raw=true)
    - [Marshall Clow, Steven Watanabe, Kevin Harris, Mark Jarvin: Algorithms that copy](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day_3_marshall.pdf?raw=true)
    - [ASL Median and Selection](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day3_asl_median_selection.pdf?raw=true)
-   - [Akira Takahashi: Replayce Output Iterator and Extend Range](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day3_replace_outiter_and_extend_range.pdf?raw=true)
+   - [Akira Takahashi: Replace Output Iterator and Extend Range](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day3_replace_outiter_and_extend_range.pdf?raw=true)
    - [String Algorithms](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day3_stringalgos.pdf?raw=true)
 * David Vandevoorde: Keynote: Modules in C++
 * [Howard Hinnant: What's new with C++11 containers?](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/cppnow_containers.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/cppnow_containers.key?raw=true)
