@@ -21,7 +21,11 @@
 
 * Jeff Garland: Library in a Week
    - [Sebastian Redl: Boost Range](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/boost_range.pdf?raw=true)
-* [Howard Hinnant: Keynote: Moving Forward with C++11](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward.key?raw=true)
+* Howard Hinnant: Keynote: Moving Forward with C++11
+   - [Part I (pages 1-131)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward_part1.pdf?raw=true) 
+   - [Part II (pages 132-262)](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward_part2.pdf?raw=true) 
+   - [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_moving_forward.key?raw=true)
+   - Full pdf version available if you clone
 * Tony Van Eerd: Don't Try This at Work - Low Level Threading with C++11 | [PPS Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/low_level_threading_with_cpp11.pps?raw=true)
 * [Michael Caisse: Ladon - A Distributed State-Machine Framework](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/ladon.pdf?raw=true) | [Original from the ciere website](http://ciere.com/cppnow12)
 * [Zoltan Porkolab, Abel Sinkovics: Metaparse - Complie-time parsing with template metaprogramming](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/metaparse.pdf?raw=true)
