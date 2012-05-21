@@ -53,7 +53,6 @@
 * [Howard Hinnant: C++11 Smart Pointers and Algorithms](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/smart_pointers_algorithms.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/smart_pointers_algorithms.key?raw=true)
 * [Lucanus Simonson, Andrii Sydorchuk: Robust and efficient multi precision algorithms design based on Boost.Polygon.Voronoi library](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/voronoi_presentation_andrii_sydorchuk.pdf?raw=true)
 * [Scott Schurr: C++11: New Tools for Class and Library Authors](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/schurr_cpp11_tools_for_class_authors.pdf?raw=true)
-* Dave Abrahams: CMake, Modularization and Ryppl Developer Preview
 
 ## Thursday Presentations
 
@@ -67,9 +66,8 @@
 * [Gordon Woodhull: Compile-time 'reparsing'](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/gordon_woodhull_reparsing_2012.pdf?raw=true)
 * [Karsten Ahnert, Mario Mulansk: Metaprogramming Applied to Numerical Problems](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/generic_stepper.pdf?raw=true)
 * Travis Gockel: How we switched to C++11 at SolidFire and how it worked out
-* Bryce Adelstein-Lelbach, Matthew Anderson, Hartmut Kaiser: HPX: A C++11 parallel runtime system
+* [Bryce Adelstein-Lelbach, Matthew Anderson, Hartmut Kaiser: HPX: A C++11 parallel runtime system](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/hpx_a_cxx11_parallel_distributed_system.pdf?raw=true)
 * [Patrick Mihelich: Linear programming made easy with Boost Proto](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/linear_programming_proto.pdf?raw=true)
-* Dave Abrahams: Metaprogramming in C++11
 * [Nat Goodspeed: Using Boost.Coroutine to untangle a state machine](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/coroutine.pdf?raw=true)
 * [Chandler Carruth: Refactoring C++ with Clang](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/cxxnow2012_refactoring.pdf?raw=true)
 * Beman Dawes: Boosting Libraries for TR2
@@ -84,7 +82,7 @@
   - [Overview](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/2012_library_in_a_week_day5_overview.pdf?raw=true)
   - [Random Sample](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/liaw_random_sample.pdf?raw=true)
   - [Want Speed Pass by Value to StringAlgo](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/liaw_string_algo_byval.pdf?raw=true)
-* Sean Parent: Value Semantics and Concepts-based Polymorphism
+* [Sean Parent: Value Semantics and Concepts-based Polymorphism](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/value_semantics/value_semantics.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/value_semantics/value_semantics.key?raw=true) | [Source Code](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/value_semantics/value_semantics.cpp)
 * Ale Contenti: C++ Component Extensions for WinRT
 
 ## Papers
