@@ -58,11 +58,11 @@
 
 * Jeff Garland: Library in a Week
    - [Algorithms](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/algorithms.pdf?raw=true)
-* Sean Parent: Keynote: Now What? A vignette in 3 parts
+* [Sean Parent: Keynote: Now What? A vignette in 3 parts](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/now_what.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/now_what.key?raw=true)
 * Beman Dawes, Jeff Garland, Howard Hinnant, Alisdair Meredith: Other C++11 Gems
    - [Jeff Garland](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/cpp_gems_garland_chrono_ratio.pdf?raw=true)
    - [Alisdair Meredith](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/cpp11_allocators.pdf?raw=true)
-* Jeroen Habraken: Type to string conversions, and vice-versa
+* [Jeroen Habraken: Type to string conversions, and vice-versa](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/convert_types_to_strings.pdf?raw=true)
 * [Gordon Woodhull: Compile-time 'reparsing'](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/gordon_woodhull_reparsing_2012.pdf?raw=true)
 * [Karsten Ahnert, Mario Mulansk: Metaprogramming Applied to Numerical Problems](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/generic_stepper.pdf?raw=true)
 * Travis Gockel: How we switched to C++11 at SolidFire and how it worked out
