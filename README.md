@@ -44,7 +44,7 @@
    - [ASL Median and Selection](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day3_asl_median_selection.pdf?raw=true)
    - [Akira Takahashi: Replace Output Iterator and Extend Range](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day3_replace_outiter_and_extend_range.pdf?raw=true)
    - [String Algorithms](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/liaw_2012_day3_stringalgos.pdf?raw=true)
-* David Vandevoorde: Keynote: Modules in C++
+* [David Vandevoorde: Keynote: Modules in C++](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/modules_aspen2012.pdf?raw=true)
 * [Howard Hinnant: What's new with C++11 containers?](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/cppnow_containers.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/cppnow_containers.key?raw=true)
 * [Jean-Marc Gratien: Implementing a Domain Specific Embedded Language for lowest-order variational methods with Boost Proto](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/jmg_cppnow_2012.pdf?raw=true)
 * [Marshall Clow: Generic Programming in C++: A Real-World Example](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/marshall_generic_programming.pdf?raw=true)
