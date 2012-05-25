@@ -30,7 +30,7 @@
 * [Michael Caisse: Ladon - A Distributed State-Machine Framework](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/ladon.pdf?raw=true) | [Original from the ciere website](http://ciere.com/cppnow12)
 * [Zoltan Porkolab, Abel Sinkovics: Metaparse - Complie-time parsing with template metaprogramming](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/metaparse.pdf?raw=true)
 * [Jon Kalb: Exception-Safe Coding in C++](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/exception_safe_coding.pdf?raw=true)
-* Beman Dawes: Moving Boost to Git
+* [Beman Dawes: Moving Boost to Git](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/moving_to_git.pdf?raw=true)
 * [Alisdair Meredith: Lessons Learned Developing the C++11 Standard Library](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/lessons_from_the_library.pdf?raw=true)
 * Sumit Kumar: What's new in Visual Studio IDE for C++ Developers
 * [Josef Weinbub: Utilizing Modern Programming Techniques and the Boost Libraries for Scientific Software Development](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_weinbub.pdf?raw=true)
@@ -70,7 +70,7 @@
 * [Patrick Mihelich: Linear programming made easy with Boost Proto](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/linear_programming_proto.pdf?raw=true)
 * [Nat Goodspeed: Using Boost.Coroutine to untangle a state machine](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/coroutine.pdf?raw=true)
 * [Chandler Carruth: Refactoring C++ with Clang](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/cxxnow2012_refactoring.pdf?raw=true)
-* Beman Dawes: Boosting Libraries for TR2
+* [Beman Dawes: Boosting Libraries for TR2](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/boosting_libraries_for_standardization.pdf?raw=true)
 * Tony Van Eerd: How I Code and Why
    - [Tony Van Eerd](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/how_i_code_and_why.pdf?raw=true)
    - [Jon Kalb](https://github.com/boostcon/cppnow_presentations_2012/blob/master/thu/check_decl.pdf?raw=true)
