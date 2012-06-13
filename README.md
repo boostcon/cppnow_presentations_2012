@@ -32,7 +32,7 @@
 * [Jon Kalb: Exception-Safe Coding in C++](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/exception_safe_coding.pdf?raw=true)
 * [Beman Dawes: Moving Boost to Git](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/moving_to_git.pdf?raw=true)
 * [Alisdair Meredith: Lessons Learned Developing the C++11 Standard Library](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/lessons_from_the_library.pdf?raw=true)
-* Sumit Kumar: What's new in Visual Studio IDE for C++ Developers
+* [Sumit Kumar: What's new in Visual Studio IDE for C++ Developers](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/visual_studio_ide_for_cpp _developers.pdf)
 * [Josef Weinbub: Utilizing Modern Programming Techniques and the Boost Libraries for Scientific Software Development](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_weinbub.pdf?raw=true)
 
 ## Wednesday Presentations
@@ -83,7 +83,7 @@
   - [Random Sample](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/liaw_random_sample.pdf?raw=true)
   - [Want Speed Pass by Value to StringAlgo](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/liaw_string_algo_byval.pdf?raw=true)
 * [Sean Parent: Value Semantics and Concepts-based Polymorphism](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/value_semantics/value_semantics.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/value_semantics/value_semantics.key?raw=true) | [Source Code](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/value_semantics/value_semantics.cpp)
-* Ale Contenti: C++ Component Extensions for WinRT
+* [Ale Contenti: C++ Component Extensions for WinRT](https://github.com/boostcon/cppnow_presentations_2012/blob/master/fri/cpp_component_extensions_for_winrt_upload_version.pdf)
 
 ## Papers
 
