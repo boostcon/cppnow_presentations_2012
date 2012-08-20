@@ -53,6 +53,7 @@
 * [Howard Hinnant: C++11 Smart Pointers and Algorithms](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/smart_pointers_algorithms.pdf?raw=true) | [Keynote Format](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/smart_pointers_algorithms.key?raw=true)
 * [Lucanus Simonson, Andrii Sydorchuk: Robust and efficient multi precision algorithms design based on Boost.Polygon.Voronoi library](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/voronoi_presentation_andrii_sydorchuk.pdf?raw=true)
 * [Scott Schurr: C++11: New Tools for Class and Library Authors](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/schurr_cpp11_tools_for_class_authors.pdf?raw=true)
+* [Dave Abrahams: CMake, Modularization and Ryppl Developer Preview](https://github.com/boostcon/cppnow_presentations_2012/blob/master/wed/ryppl.pdf?raw=true)
 
 ## Thursday Presentations
 
