@@ -32,7 +32,7 @@
 * [Jon Kalb: Exception-Safe Coding in C++](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/exception_safe_coding.pdf?raw=true)
 * [Beman Dawes: Moving Boost to Git](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/moving_to_git.pdf?raw=true)
 * [Alisdair Meredith: Lessons Learned Developing the C++11 Standard Library](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/lessons_from_the_library.pdf?raw=true)
-* [Sumit Kumar: What's new in Visual Studio IDE for C++ Developers](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/visual_studio_ide_for_cpp _developers.pdf?raw=true)
+* [Sumit Kumar: What's new in Visual Studio IDE for C++ Developers](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/visual_studio_ide_for_cpp_developers.pdf?raw=true)
 * [Josef Weinbub: Utilizing Modern Programming Techniques and the Boost Libraries for Scientific Software Development](https://github.com/boostcon/cppnow_presentations_2012/blob/master/tue/cppnow_weinbub.pdf?raw=true)
 
 ## Wednesday Presentations
